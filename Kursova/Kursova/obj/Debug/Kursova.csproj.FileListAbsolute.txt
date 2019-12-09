@@ -1,0 +1,31 @@
+c:\users\stud\documents\visual studio 2013\Projects\Kursova\Kursova\bin\Debug\Kursova.exe.config
+c:\users\stud\documents\visual studio 2013\Projects\Kursova\Kursova\bin\Debug\Kursova.exe
+c:\users\stud\documents\visual studio 2013\Projects\Kursova\Kursova\bin\Debug\Kursova.pdb
+c:\users\stud\documents\visual studio 2013\Projects\Kursova\Kursova\obj\Debug\Kursova.Form1.resources
+c:\users\stud\documents\visual studio 2013\Projects\Kursova\Kursova\obj\Debug\Kursova.Properties.Resources.resources
+c:\users\stud\documents\visual studio 2013\Projects\Kursova\Kursova\obj\Debug\Kursova.csproj.GenerateResource.Cache
+c:\users\stud\documents\visual studio 2013\Projects\Kursova\Kursova\obj\Debug\Kursova.exe
+c:\users\stud\documents\visual studio 2013\Projects\Kursova\Kursova\obj\Debug\Kursova.pdb
+C:\Users\stud\Documents\Visual Studio 2013\Projects\Kursova\Kursova\obj\Debug\Kursova.EmployeeForm.resources
+C:\Users\stud\Documents\Visual Studio 2013\Projects\Kursova\Kursova\bin\Debug\MetroFramework.dll
+C:\Users\stud\Documents\Visual Studio 2013\Projects\Kursova\Kursova\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\stud\Documents\Visual Studio 2013\Projects\Kursova\Kursova\obj\Debug\Kursova.UserForm.resources
+C:\Users\stud\Documents\Visual Studio 2013\Projects\Kursova\Kursova\obj\Debug\Kursova.EditForm.resources
+C:\Users\stud\Documents\Visual Studio 2013\Projects\Kursova\Kursova\obj\Debug\Kursova.csproj.ResolveComReference.cache
+C:\Users\stud\documents\visual studio 2013\Projects\Kursova\Kursova\obj\Debug\Kursova.ServiceForm.resources
+d:\EDUC\Kursach\КП_Ющенко_ПР-132\Продаж квитків\Kursova\Kursova\bin\Debug\Kursova.exe.config
+d:\EDUC\Kursach\КП_Ющенко_ПР-132\Продаж квитків\Kursova\Kursova\obj\Debug\Kursova.csproj.ResolveComReference.cache
+d:\EDUC\Kursach\КП_Ющенко_ПР-132\Продаж квитків\Kursova\Kursova\obj\Debug\Kursova.exe
+d:\EDUC\Kursach\КП_Ющенко_ПР-132\Продаж квитків\Kursova\Kursova\obj\Debug\Kursova.pdb
+d:\EDUC\Kursach\КП_Ющенко_ПР-132\Продаж квитків\Kursova\Kursova\bin\Debug\Kursova.exe
+d:\EDUC\Kursach\КП_Ющенко_ПР-132\Продаж квитків\Kursova\Kursova\bin\Debug\Kursova.pdb
+d:\EDUC\Kursach\КП_Ющенко_ПР-132\Продаж квитків\Kursova\Kursova\bin\Debug\MetroFramework.dll
+d:\EDUC\Kursach\КП_Ющенко_ПР-132\Продаж квитків\Kursova\Kursova\bin\Debug\MetroFramework.Fonts.dll
+d:\EDUC\Kursach\КП_Ющенко_ПР-132\Продаж квитків\Kursova\Kursova\obj\Debug\Kursova.csprojResolveAssemblyReference.cache
+d:\EDUC\Kursach\КП_Ющенко_ПР-132\Продаж квитків\Kursova\Kursova\obj\Debug\Kursova.EditForm.resources
+d:\EDUC\Kursach\КП_Ющенко_ПР-132\Продаж квитків\Kursova\Kursova\obj\Debug\Kursova.EmployeeForm.resources
+d:\EDUC\Kursach\КП_Ющенко_ПР-132\Продаж квитків\Kursova\Kursova\obj\Debug\Kursova.Form1.resources
+d:\EDUC\Kursach\КП_Ющенко_ПР-132\Продаж квитків\Kursova\Kursova\obj\Debug\Kursova.Properties.Resources.resources
+d:\EDUC\Kursach\КП_Ющенко_ПР-132\Продаж квитків\Kursova\Kursova\obj\Debug\Kursova.ServiceForm.resources
+d:\EDUC\Kursach\КП_Ющенко_ПР-132\Продаж квитків\Kursova\Kursova\obj\Debug\Kursova.UserForm.resources
+d:\EDUC\Kursach\КП_Ющенко_ПР-132\Продаж квитків\Kursova\Kursova\obj\Debug\Kursova.csproj.GenerateResource.Cache
